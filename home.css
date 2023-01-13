@@ -1,0 +1,43 @@
+body {
+  height: 100vh;
+}
+
+.container-fluid {
+  background-color: rgb(172, 230, 172);
+  text-align: center;
+}
+
+.main {
+  height: 100%;
+}
+
+.b1 {
+  background-image: url(background_img.jpg);
+  background-size: 1000%;
+}
+
+.title {
+  margin-top: 25px;
+}
+
+.about {
+  margin-top: 30px;
+}
+
+.projects {
+  margin-top: 75px;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
+
+.tech {
+  margin-top: 50px;
+}
+
+.tech_image {
+  width: 10%;
+  height: 10%;
+}
